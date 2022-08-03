@@ -1,0 +1,26 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: rgb(15, 180, 15);
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: darkred;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.resaltado{
+    color: gold;
+    background-color: brown;
+    font-style: italic;
+}
+#cabecera{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color: darkorange;
+    background-color:deeppink;
+}
