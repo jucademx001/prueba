@@ -24,3 +24,100 @@ p{
     color: darkorange;
     background-color:deeppink;
 }
+#recuadro1{
+
+    box-shadow: 30px 10px 20px #aaa; 
+  
+    border-radius: 20px;  
+  
+    background-color:#ddd;
+  
+    width:200px;
+  
+    padding:10px;
+  
+  }
+  
+  #recuadro2{
+  
+    box-shadow: -10px -10px 20px #aaa; 
+  
+    border-radius: 20px;  
+  
+    background-color:#aa0;
+  
+    width:200px;
+  
+    padding:10px;
+  
+    margin-top:50px;
+  
+  }
+  #recuadro3{
+
+    border-radius: 20px;  
+  
+    background-color:#ddd;
+  
+    width:200px;
+  
+    padding:10px;
+  
+  }
+  
+  #recuadro4{
+  
+    border-radius: 20px 40px 40px 20px;  
+  
+    background-color:#aa0;
+  
+    width:200px;
+  
+    padding:10px;
+  
+    margin-top:50px;
+  
+  }
+  #recuadro5{
+
+    -ms-transform: rotate(45deg);
+  
+    -webkit-transform: rotate(45deg);
+  
+    -moz-transform: rotate(45deg);
+  
+    -o-transform: rotate(45deg);
+  
+    transform: rotate(45deg);
+  
+    border-radius: 20px;  
+  
+    background-color:#ddd;
+  
+    width:200px;
+  
+    padding:10px;
+  
+  }
+  
+  #recuadro6{
+  
+    -ms-transform: rotate(-45deg);
+  
+    -webkit-transform: rotate(-45deg);
+  
+    -moz-transform: rotate(-45deg);
+  
+    -o-transform: rotate(-45deg);
+  
+    transform: rotate(-45deg);
+  
+    border-radius: 20px;  
+  
+    background-color:#ddd;
+  
+    width:200px;
+  
+    padding:10px;
+  
+  }
